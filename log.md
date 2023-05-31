@@ -8,3 +8,12 @@
 
 **Project**
 [Personal Portfolio and Website](https://github.com/joshua-larsen/joshua-larsen.github.io)
+
+### Day 1: May 31, 2023
+
+**Today's Progress**: Discovered The Odin Project and worked through their curriculum
+
+**Thoughts:** Looking forward to getting into the programming part of it. 
+
+**Project**
+[The Odin Project](https://www.theodinproject.com/)
