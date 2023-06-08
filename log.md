@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 8, 2023
+
+**Today's Progress**: Worked on a raspberry pi server running Ubuntu
+
+**Thoughts:** Feeling motivated to keep working on the project
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 4 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>. Following <a href="https://twitter.com/hashtag/theodinproject?src=hash&amp;ref_src=twsrc%5Etfw">#theodinproject</a> and getting excited about building a raspberry pi server.</p>&mdash; Joshua Larsen (@_joshualarsen) <a href="https://twitter.com/_joshualarsen/status/1666793389332004864?ref_src=twsrc%5Etfw">June 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Day 3: June 7, 2023
+
+**Today's Progress**: Started to explore the command line
+
+**Thoughts:** Feeling excited about the potential of computing
+
 #### Tweet
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 3 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>Learned about how the internet works via many great <a href="https://twitter.com/mozhacks?ref_src=twsrc%5Etfw">@mozhacks</a> articles. Gosh, I love the open-source internet!</p>&mdash; Joshua Larsen (@_joshualarsen) <a href="https://twitter.com/_joshualarsen/status/1665705577639469056?ref_src=twsrc%5Etfw">June 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
