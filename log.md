@@ -1,53 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 4: June 8, 2023
 
-**Today's Progress**: Worked on a raspberry pi server running Ubuntu
 
-**Thoughts:** Feeling motivated to keep working on the project
+### Day 0: April 28, 2024
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 4 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>. Following <a href="https://twitter.com/hashtag/theodinproject?src=hash&amp;ref_src=twsrc%5Etfw">#theodinproject</a> and getting excited about building a raspberry pi server.</p>&mdash; Joshua Larsen (@_joshualarsen) <a href="https://twitter.com/_joshualarsen/status/1666793389332004864?ref_src=twsrc%5Etfw">June 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+**Today's Progress**: Today I am learning Shopify's liquid to customize shop themes.
 
-### Day 3: June 7, 2023
+**Tweet**:
+! [Day 0 Tweet] ([URL or file path](https://x.com/_joshualarsen/status/1784672562603024630))
 
-**Today's Progress**: Started to explore the command line
-
-**Thoughts:** Feeling excited about the potential of computing
-
-#### Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 3 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>Learned about how the internet works via many great <a href="https://twitter.com/mozhacks?ref_src=twsrc%5Etfw">@mozhacks</a> articles. Gosh, I love the open-source internet!</p>&mdash; Joshua Larsen (@_joshualarsen) <a href="https://twitter.com/_joshualarsen/status/1665705577639469056?ref_src=twsrc%5Etfw">June 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### Day 2: June 5, 2023
-
-**Today's Progress**: Learned about the internet and how it works.
-
-**Thoughts:** Feeling empowered and inspired by all this information 
-
-#### Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 2 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>Just discovered <a href="https://twitter.com/hashtag/TheOdinProject?src=hash&amp;ref_src=twsrc%5Etfw">#TheOdinProject</a> and have been digging deep into their excellent resources.</p>&mdash; Joshua Larsen (@_joshualarsen) <a href="https://twitter.com/_joshualarsen/status/1663846142331822082?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-**Project**
-[The Odin Project](https://www.theodinproject.com/)
-[Mozilla Developer](https://developer.mozilla.org/en-US/)
-
-### Day 1: May 31, 2023
-
-**Today's Progress**: Discovered The Odin Project and worked through their curriculum
-
-**Thoughts:** Looking forward to getting into the programming part of it. 
-
-#### Tweet
-
-**Project**
-[The Odin Project](https://www.theodinproject.com/)
-
-### Day 0: May 23, 2023
-
-**Today's Progress**: Worked on git errors, rendered and published site.
-
-**Thoughts:** I am struggling a bit with git errors as I don't have a strong understanding of how it works, but I am happy that I finally got my site to work.
+**Thoughts:** 
 
 **Project**
 [Personal Portfolio and Website](https://github.com/joshua-larsen/joshua-larsen.github.io)
