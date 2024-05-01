@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 3: May 1, 2024
+
+**Today's Progress**: Today I worked on CS50 python for a little bit and then Streamlit which was amazingly easy. I also worked on a Shopify development store. 
+
+**Tweet**:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/day2?src=hash&amp;ref_src=twsrc%5Etfw">#day2</a> of <a href="https://twitter.com/hashtag/100daysofcode?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcode</a><br>Got a Shopify liquid certificate. Played around with <a href="https://twitter.com/hashtag/30DaysOfStreamlit?src=hash&amp;ref_src=twsrc%5Etfw">#30DaysOfStreamlit</a> and finished week 0 of <a href="https://twitter.com/cs50?ref_src=twsrc%5Etfw">@cs50</a>&#39;s python course. Over all starting to feel pretty confident. <br><br>Couldn&#39;t have done it without <a href="https://twitter.com/arcinternet?ref_src=twsrc%5Etfw">@arcinternet</a> and <a href="https://twitter.com/hashtag/Boosts?src=hash&amp;ref_src=twsrc%5Etfw">#Boosts</a>!</p>&mdash; Joshua Larsen (@_joshualarsen) <a href="https://twitter.com/_joshualarsen/status/1785447721752576146?ref_src=twsrc%5Etfw">April 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Day 2: April 30, 2024
+
+**Today's Progress**: Today I got certified in Shopify liquid and theme development. 
+
+**Tweet**:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/day2?src=hash&amp;ref_src=twsrc%5Etfw">#day2</a> of <a href="https://twitter.com/hashtag/100daysofcode?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcode</a><br>Got a Shopify liquid certificate. Played around with <a href="https://twitter.com/hashtag/30DaysOfStreamlit?src=hash&amp;ref_src=twsrc%5Etfw">#30DaysOfStreamlit</a> and finished week 0 of <a href="https://twitter.com/cs50?ref_src=twsrc%5Etfw">@cs50</a>&#39;s python course. Over all starting to feel pretty confident. <br><br>Couldn&#39;t have done it without <a href="https://twitter.com/arcinternet?ref_src=twsrc%5Etfw">@arcinternet</a> and <a href="https://twitter.com/hashtag/Boosts?src=hash&amp;ref_src=twsrc%5Etfw">#Boosts</a>!</p>&mdash; Joshua Larsen (@_joshualarsen) <a href="https://twitter.com/_joshualarsen/status/1785447721752576146?ref_src=twsrc%5Etfw">April 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Day 1: April 29, 2024
 
 **Today's Progress**: Today I am continued learning Shopify's liquid. I am looking forward to building a custom theme possibly for artists and or gallerys. 
