@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 4: May 2, 2024
+
+**Today's Progress**: Today I worked on CS50python and nearly completed week 1. I also built out most of a website using Webflow and Finsweet's client-first template.
+
 ### Day 3: May 1, 2024
 
 **Today's Progress**: Today I worked on CS50 python for a little bit and then Streamlit which was amazingly easy. I also worked on a Shopify development store. 
